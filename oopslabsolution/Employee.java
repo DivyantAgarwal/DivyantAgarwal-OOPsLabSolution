@@ -76,7 +76,7 @@ public class Employee {
 	
 	
 	public static void main(String[] args) {
-		Employee employee = new Employee("Parthvi", "Mehta");
+		Employee employee = new Employee("Divyant", "Agarwal");
 		employee.showCredentials();
 	}
 }
